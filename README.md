@@ -41,10 +41,7 @@ This file is primarily utilized as a library by `main.py` for creating, training
 
 3. Execute `main.py` to train and evaluate the CNN model. Modify the `Args` class in `main.py` to customize the dataset and GPU usage settings.
 
-## Dataset Support
+## Dataset
 
 The current implementation supports two datasets: MNIST and CIFAR-10. You can select the dataset by modifying the `Args` class within `main.py`.
 
-## Acknowledgments
-
-This project is a basic implementation of a CNN for image classification. For more advanced applications, consider further customization and optimization.
